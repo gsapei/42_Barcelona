@@ -6,13 +6,12 @@
 /*   By: gsapei <gsapei@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/10 18:08:47 by gsapei            #+#    #+#             */
-/*   Updated: 2024/01/10 18:10:20 by gsapei           ###   ########.fr       */
+/*   Updated: 2024/01/17 15:25:39 by gsapei           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 // #include <stdio.h>
-// #include <ctype.h>
 
 int	ft_tolower(int c)
 {

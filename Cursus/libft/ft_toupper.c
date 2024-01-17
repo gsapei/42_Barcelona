@@ -6,13 +6,12 @@
 /*   By: gsapei <gsapei@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/10 18:00:39 by gsapei            #+#    #+#             */
-/*   Updated: 2024/01/10 18:06:53 by gsapei           ###   ########.fr       */
+/*   Updated: 2024/01/17 15:25:49 by gsapei           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 // #include <stdio.h>
-// #include <ctype.h>
 
 int	ft_toupper(int c)
 {

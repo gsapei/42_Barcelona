@@ -6,13 +6,13 @@
 /*   By: gsapei <gsapei@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/15 15:27:34 by gsapei            #+#    #+#             */
-/*   Updated: 2024/01/15 18:15:42 by gsapei           ###   ########.fr       */
+/*   Updated: 2024/01/17 15:24:17 by gsapei           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 #include <stdlib.h>
-#include <stdio.h>
+// #include <stdio.h>
 
 static int	ft_get_digits(long n)
 {
@@ -63,9 +63,9 @@ char	*ft_itoa(int n)
 	return (reverse);
 }
 
-int main(void)
-{
-	printf("%s\n",ft_itoa(2147483647));
-	printf("%s\n",ft_itoa(0));
-	printf("%s\n",ft_itoa(-2147483648));
-}
+// int main(void)
+// {
+// 	printf("%s\n",ft_itoa(2147483647));
+// 	printf("%s\n",ft_itoa(0));
+// 	printf("%s\n",ft_itoa(-2147483648));
+// }
